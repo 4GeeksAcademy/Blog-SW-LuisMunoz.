@@ -1,0 +1,104 @@
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 1rem;
+  background-color: #282727;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.container h1 {
+ font-family: 'Orbitron', sans-serif;
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: rgb(255, 255, 255) !important;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  margin: 0 auto 1.5rem auto;
+}
+
+.vehicle-list {
+  margin: 5px;
+  background: #0b0c10; 
+  padding: 1rem 2rem;
+  box-shadow: 0 0 10px #66fcf1, 0 0 20px #45a29e inset;
+  font-family: 'Orbitron', sans-serif;
+}
+
+.vehicle-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.8rem 0;
+  border-bottom: 1px solid #45a29e;
+}
+
+.vehicle-item h4 {
+  font-weight: 700;
+  color: #66fcf1;
+  text-shadow:
+    0 0 5px #66fcf1,
+    0 0 10px #45a29e,
+    0 0 20px #45a29e;
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.vehicle-item span {
+  color: #f0c419; 
+  font-weight: 600;
+  text-shadow:
+    0 0 5px #f0c419,
+    0 0 10px #c9a700;
+  align-self: center;
+  font-size: 1.1rem;
+}
+
+
+.vehicle-item:last-child {
+  border-bottom: none;
+}
+
+
+.character-card {
+  background-color: #1e1e1e;
+  color: white;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: row;
+  max-width: 1000px;
+  margin: auto;
+  height: 500px;
+    box-shadow: 0 0 85px rgba(102, 252, 241, 0.4);
+
+}
+
+.character-card-image {
+  width: 500px;
+  height: 100%;
+  object-fit: cover;
+  box-shadow: 0 0 15px rgba(102, 252, 241, 0.4);
+}
+
+.character-card-info {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+margin-top: 50px;
+}
+
+.character-card-info h2 {
+  font-size: 60px;
+  font-family: 'Orbitron', sans-serif;
+}
+.character-card-info p {
+  font-family: 'Orbitron', sans-serif;
+}

@@ -1,0 +1,24 @@
+.navbar {
+  background-image: url(https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy.jpg) !important; 
+}
+.navbar>.container{
+  background-image: url(https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy.jpg);
+  box-shadow: 0 0 15px hwb(204 4% 10% / 0.705);
+  border-radius: 2%;
+}
+.h1-home{
+  color: black;
+  margin-left: 25px;
+
+}
+.img-gift{
+  width: 200px;
+}
+.footer{
+  color: aliceblue;
+}
+.parrafo-footer{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}

@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+  padding: 0;
+  
+  background-image: url("https://img.freepik.com/foto-gratis/fondo-hiperespacial-3d-efecto-tunel-urdimbre_1048-12526.jpg");
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed; 
+  background-repeat: no-repeat;
+  background-color: #000; 
+  min-height: 100vh;
+  color: white; 
+}
+
+.carrusel-scroll-container::-webkit-scrollbar {
+  height: 8px; 
+  
+}
+
+.carrusel-scroll-container::-webkit-scrollbar-track {
+  background: #88888827; 
+  border-radius: 10px;
+  
+}
+
+.carrusel-scroll-container::-webkit-scrollbar-thumb {
+  background-color: #8888882f; 
+  border-radius: 10px;
+}
+
+.carrusel-scroll-container::-webkit-scrollbar-thumb:hover {
+  background-color: hwb(197 7% 40% / 0.514); 
+}
+.carrusel-cards {
+  display: flex;
+  flex-wrap: nowrap;
+}
+.card-card{
+width: 350px;
+    height: 500px;
+    display: flex;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    align-content: space-between;
+    color: white;
+    background-image: url(https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy.jpg);
+    padding: 15px;
+    border-radius: 5%;
+    justify-content: flex-end;
+    flex-direction: column;
+    margin: 5px;
+    box-shadow: 0 0 15px rgba(255, 0, 0, 0.7);
+ }
+ 
+ .navbar {
+  background-image: url(https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy.jpg) !important; 
+}
+.navbar>.container{
+  background-image: url(https://w0.peakpx.com/wallpaper/256/535/HD-wallpaper-star-wars-death-star-galaxy.jpg);
+  box-shadow: 0 0 15px rgba(255, 0, 0, 0.7);
+  border-radius: 2%;
+}
+.h1-home{
+  color: black;
+  margin-left: 25px;
+
+}
+.img-gift{
+  width: 200px;
+}
+.footer{
+  color: aliceblue;
+}
+.parrafo-footer{
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}

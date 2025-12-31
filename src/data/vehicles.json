@@ -1,0 +1,62 @@
+[
+  {
+    "uid": "4",
+    "name": "Sand Crawler",
+    "url": "https://www.swapi.tech/api/vehicles/4",
+    "imgURL": "https://static.wikia.nocookie.net/starwars/images/f/ff/Sandcrawler.png/revision/latest?cb=20130812001443"
+  },
+  {
+    "uid": "7",
+    "name": "X-34 landspeeder",
+    "url": "https://www.swapi.tech/api/vehicles/7",
+    "imgURL": "https://www.motortrend.com/uploads/sites/21/2020/04/007-Junkyard-Empire-Replica-Star-Wars-X-34-Landspeeder.jpg"
+  },
+  {
+    "uid": "6",
+    "name": "T-16 skyhopper",
+    "url": "https://www.swapi.tech/api/vehicles/6",
+    "imgURL": "https://modelermagic.com/wp-content/uploads/2017/08/P6140019.jpg"
+  },
+  {
+    "uid": "8",
+    "name": "TIE/LN starfighter",
+    "url": "https://www.swapi.tech/api/vehicles/8",
+    "imgURL": "https://diceandcardboard.com/content/images/2022/06/7D447526-4083-44FC-BAAD-FEBA5A3872B0.jpeg"
+  },
+  {
+    "uid": "14",
+    "name": "Snowspeeder",
+    "url": "https://www.swapi.tech/api/vehicles/14",
+    "imgURL": "https://static1.moviewebimages.com/wordpress/wp-content/uploads/article/H2liLVVJFMon6gTHaIgQu5wNT8qesL.jpg"
+  },
+  {
+    "uid": "18",
+    "name": "AT-AT",
+    "url": "https://www.swapi.tech/api/vehicles/18",
+    "imgURL": "https://preview.redd.it/8742hut260p81.jpg?width=640&crop=smart&auto=webp&s=094c14f40c62282f6700b8c0ae03ca7cf81534e7"
+  },
+  {
+    "uid": "16",
+    "name": "TIE bomber",
+    "url": "https://www.swapi.tech/api/vehicles/16",
+    "imgURL": "https://static.wikia.nocookie.net/esstarwars/images/1/17/TIE_Bomber_BF2.png/revision/latest?cb=20171101030957"
+  },
+  {
+    "uid": "19",
+    "name": "AT-ST",
+    "url": "https://www.swapi.tech/api/vehicles/19",
+    "imgURL": "https://fbi.cults3d.com/uploaders/13589180/illustration-file/c58f04b5-8eeb-4811-91b0-bfc0efa0ffcd/ATST%20Rendered_1.jpg"
+  },
+  {
+    "uid": "20",
+    "name": "Storm IV Twin-Pod cloud car",
+    "url": "https://www.swapi.tech/api/vehicles/20",
+    "imgURL": "https://swrpggm.com/wp-content/uploads/2021/10/CloudCar_FE.png"
+  },
+  {
+    "uid": "24",
+    "name": "Sail barge",
+    "url": "https://www.swapi.tech/api/vehicles/24",
+    "imgURL": "https://www.brickfanatics.com/wp-content/uploads/2023/03/Star-Wars-Return-of-the-Jedi-Jabbas-Sail-Barge.jpg"
+  }
+]

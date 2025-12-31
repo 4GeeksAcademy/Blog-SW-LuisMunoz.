@@ -1,0 +1,62 @@
+[
+  {
+    "uid": "1",
+    "name": "Tatooine",
+    "url": "https://www.swapi.tech/api/planets/1",
+    "imgURL": "https://static.wikia.nocookie.net/esstarwars/images/e/e6/MosEisley-celebration.png/revision/latest?cb=20140805192904"
+  },
+  {
+    "uid": "2",
+    "name": "Alderaan",
+    "url": "https://www.swapi.tech/api/planets/2",
+    "imgURL": "https://lumiere-a.akamaihd.net/v1/images/alderaan-main_f5b676cf.jpeg?region=0%2C0%2C1280%2C720"
+  },
+  {
+    "uid": "3",
+    "name": "Yavin IV",
+    "url": "https://www.swapi.tech/api/planets/3",
+    "imgURL": "https://frikipolis.com/wp-content/uploads/2022/03/1OcJFCKRdBvi0lDLpA59n2bIgcsJIv_ZBnie20vquOE.jpg"
+  },
+  {
+    "uid": "4",
+    "name": "Hoth",
+    "url": "https://www.swapi.tech/api/planets/4",
+    "imgURL": "https://pm1.aminoapps.com/6592/17fa9c214dad4ac1671fb301286aa9095e3a5dab_hq.jpg"
+  },
+  {
+    "uid": "5",
+    "name": "Dagobah",
+    "url": "https://www.swapi.tech/api/planets/5",
+    "imgURL": "https://lumiere-a.akamaihd.net/v1/images/Dagobah_890df592.jpeg?region=0%2C80%2C1260%2C711"
+  },
+  {
+    "uid": "6",
+    "name": "Bespin",
+    "url": "https://www.swapi.tech/api/planets/6",
+    "imgURL": "https://static.wikia.nocookie.net/esstarwars/images/c/c3/MCQ-cloudcity.jpg/revision/latest?cb=20190928215304"
+  },
+  {
+    "uid": "7",
+    "name": "Endor",
+    "url": "https://www.swapi.tech/api/planets/7",
+    "imgURL": "https://lumiere-a.akamaihd.net/v1/images/databank_endor_01_169_68ba9bdc.jpeg?region=0%2C0%2C1560%2C878"
+  },
+  {
+    "uid": "8",
+    "name": "Naboo",
+    "url": "https://www.swapi.tech/api/planets/8",
+    "imgURL": "https://static.wikia.nocookie.net/esstarwars/images/6/6c/Theed.png/revision/latest?cb=20181117023044"
+  },
+  {
+    "uid": "9",
+    "name": "Coruscant",
+    "url": "https://www.swapi.tech/api/planets/9",
+    "imgURL": "https://images.theconversation.com/files/516919/original/file-20230322-984-capxez.jpeg?ixlib=rb-4.1.0&q=45&auto=format&w=754&fit=clip"
+  },
+  {
+    "uid": "10",
+    "name": "Kamino",
+    "url": "https://www.swapi.tech/api/planets/10",
+    "imgURL": "https://static.wikia.nocookie.net/esstarwars/images/2/2c/TipocaCity-CC.png/revision/latest?cb=20171225231258"
+  }
+]
